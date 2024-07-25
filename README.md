@@ -1,4 +1,4 @@
-# Live demo:
+# Live demo: [LinkedIn](https://www.linkedin.com/in/vaghani-daxil)
 
 # Fullstack Task Manager (MERN)
 
