@@ -1,4 +1,4 @@
-# Live demo: [LinkedIn](https://www.linkedin.com/in/vaghani-daxil)
+# Live demo: [task-me-bay.vercel.app](task-me-bay.vercel.app)
 
 # Fullstack Task Manager (MERN)
 
